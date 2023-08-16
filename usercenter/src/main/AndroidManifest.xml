@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.caswen.usercenter">
+
+    <application>
+        <activity android:name="com.caswen.usercenter.LoginActivity"/>
+    </application>
+</manifest>
