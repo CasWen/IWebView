@@ -5,5 +5,5 @@
     ##4.加入auto-service代替arouter
 
     
-## 【img】https://github.com/CasWen/IWebView/blob/main/app/src/main/image/20230817091848-screencap.png
+#图片示例：
 ![20230817091848-screencap](https://github.com/CasWen/IWebView/assets/23111681/6aebff62-a41b-4f72-bdc0-5d8c82e4526d)
